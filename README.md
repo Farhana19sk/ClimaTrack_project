@@ -18,8 +18,6 @@ Requests
 Matplotlib
 HTML & CSS (UI customization)
 📂 Project Structure
-Copy code
-
 ClimaTrack/
 │
 ├── assets/
@@ -32,27 +30,17 @@ ClimaTrack/
 ├── .gitignore
 ⚙ Installation & Setup
 1️⃣ Clone Repository
-Bash
-Copy code
-git clone https://github.com/your-username/ClimaTrack.git
+Bash---git clone https://github.com/your-username/ClimaTrack.git
 cd ClimaTrack
 2️⃣ Install Dependencies
-Bash
-Copy code
-pip install -r requirements.txt
+Bash---pip install -r requirements.txt
 3️⃣ Add Your API Key
 Inside app.py, replace:
-Python
-Copy code
-API_KEY = "YOUR_REAL_API_KEY"
+Python---API_KEY = "YOUR_REAL_API_KEY"
 Or use Streamlit secrets for secure deployment:
-Python
-Copy code
-API_KEY = st.secrets["API_KEY"]
+Python---API_KEY = st.secrets["API_KEY"]
 4️⃣ Run the App
-Bash
-Copy code
-streamlit run app.py
+Bash---streamlit run app.py
 📊 Key Learning Outcomes
 REST API integration & JSON parsing
 Modular tab-based application design
