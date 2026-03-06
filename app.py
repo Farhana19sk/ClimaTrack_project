@@ -6,7 +6,7 @@ import base64
 import os
 
 # ================= CONFIG =================
-API_KEY = "YOUR_REAL_API_KEY"  # Replace with your OpenWeather API key
+API_KEY = st.secrets["OPENWEATHER_API_KEY"]  # Replace with your OpenWeather API key
 st.set_page_config(page_title="ClimaTrack", layout="wide")
 
 # ================= SAFE BACKGROUND FUNCTION =================
