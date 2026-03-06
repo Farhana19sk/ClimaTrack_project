@@ -1,6 +1,6 @@
 🌦 ClimaTrack – Climate Intelligence Platform
 🔗 Live Application:
-👉 https://climatrackprojectgit-j2epwkffyhb8yykyz67i3x.streamlit.app�
+👉 https://climatrackprojectgit-j2epwkffyhb8yykyz67i3x.streamlit.app/
 ClimaTrack is a Streamlit-based climate intelligence web application that delivers real-time weather insights using live API integration. The platform provides interactive dashboards, city comparison, and climate trend visualization.
 This project demonstrates strong understanding of API handling, modular architecture, and data visualization in Python.
 🚀 Features
