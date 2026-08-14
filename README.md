@@ -1,24 +1,24 @@
-🌦 ClimaTrack – Climate Intelligence Platform
+# 🌦 ClimaTrack – Climate Intelligence Platform
 🔗 Live Application:
 👉 https://climatrackprojectgit-j2epwkffyhb8yykyz67i3x.streamlit.app/
 Note:The app may take a few minutes to load if it is waking up from sleep on Streamlit Cloud.
 ClimaTrack is a Streamlit-based climate intelligence web application that delivers real-time weather insights using live API integration. The platform provides interactive dashboards, city comparison, and climate trend visualization.
 This project demonstrates strong understanding of API handling, modular architecture, and data visualization in Python.
-🚀 Features
+# 🚀 Features
 🌍 Real-time weather data retrieval using OpenWeather API
 🌡 Temperature, humidity, wind speed, sunrise & sunset metrics
 🗺 Multi-city weather comparison
 📈 Climate trend visualization with Matplotlib
 🎨 Custom UI styling (background & logo integration)
 🚨 Alert section (extensible for real-time warnings)
-🛠 Tech Stack
+# 🛠 Tech Stack
 Python
 Streamlit
 OpenWeather API
 Requests
 Matplotlib
 HTML & CSS (UI customization)
-📂 Project Structure
+# 📂 Project Structure
 ClimaTrack/
 │
 ├── assets/
@@ -29,7 +29,7 @@ ClimaTrack/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-⚙ Installation & Setup
+# ⚙ Installation & Setup
 1️⃣ Clone Repository
 Bash---git clone https://github.com/your-username/ClimaTrack.git
 cd ClimaTrack
@@ -42,20 +42,20 @@ Or use Streamlit secrets for secure deployment:
 Python---API_KEY = st.secrets["API_KEY"]
 4️⃣ Run the App
 Bash---streamlit run app.py
-📊 Key Learning Outcomes
+# 📊 Key Learning Outcomes
 REST API integration & JSON parsing
 Modular tab-based application design
 Real-time data handling
 Data visualization using Matplotlib
 Custom UI styling with embedded CSS
 Cloud deployment using Streamlit Community Cloud
-📌 Future Enhancements
+# 📌 Future Enhancements
 5-day & hourly forecast integration
 Real-time severe weather alerts
 User authentication
 Mobile-responsive optimization
 Advanced analytics dashboard
-👨‍💻 Developer
+# 👨‍💻 Developer
 SHAIK FARHANA 
 Aspiring Software Developer
 Open to placement opportunities
